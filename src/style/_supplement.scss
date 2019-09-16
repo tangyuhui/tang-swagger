@@ -1,0 +1,18 @@
+
+.flex{
+    display:flex;
+}
+.op-checkbox-container{
+    padding:10px;
+    .op-checkbox{
+        width:20px;height:20px;
+    }
+}
+.operation-btn{
+    position:fixed;
+    bottom:200px;
+    left:100px;
+}
+.flex-rest{
+    flex:1;
+}
